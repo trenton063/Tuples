@@ -17,3 +17,5 @@ const carStats = {
   horsepower: 400,
   weight: 3354,
 };
+
+const house: [number, string, boolean, number] = [33, "red", true, 2];
